@@ -1,0 +1,2 @@
+# Optimized-Path-Analysis-for-an-Underground-Cave-System-3D-Maze-
+Developed an optimized algorithm which finds the most optimal path between 2 points in a 3D Maze using various AI search techniques like BFS, DFS, UCS, Greedy BFS and A*. The algorithm was extremely optimal running in ~15s to ~30s for search spaces as big as 10000000 nodes where a set of 18 actions could be performed at each node in the 3D Maze.
